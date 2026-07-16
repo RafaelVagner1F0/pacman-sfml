@@ -1,0 +1,3 @@
+g++ 000tp3.cpp -o 000tp3.exe -IC:\SFML\include -LC:\SFML\lib -lsfml-graphics -lsfml-window -lsfml-system
+
+./000tp3.exe
